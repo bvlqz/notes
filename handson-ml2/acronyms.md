@@ -12,3 +12,5 @@
 * t-SNE - t-Distributed Stochastic Neighbor Embedding
 * DBN - Deep Belief Networks
 * RBM - Restricted Boltzmann Machines
+* RMQE - Root Mean Square Error
+* MAE - Mean Absolute Error (aka average absulte deviation)
