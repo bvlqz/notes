@@ -21,3 +21,9 @@
 **Out-of-sample error**: Generalization error, tells how well the model will perform on instances it has never seen before. If training error is low, but generalization error is high, the model is over-lifting the training data 
 
 **Validation Set**: Used to compare models, it makes it possible to select the best model and tune the hyperparamenters
+
+**Signal**: A piece of information fed to a Machine Learning Algorithm
+
+**Pipeline**: A sequence of data processing components
+
+**Hypotesis**: The system's prediction function
