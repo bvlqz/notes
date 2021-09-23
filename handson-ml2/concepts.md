@@ -27,3 +27,5 @@
 **Pipeline**: A sequence of data processing components
 
 **Hypotesis**: The system's prediction function
+
+**Standard Deviation**: The square root of the variance, which is the average of the squared deviation from the mean
