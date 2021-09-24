@@ -29,3 +29,7 @@
 **Hypotesis**: The system's prediction function
 
 **Standard Deviation**: The square root of the variance, which is the average of the squared deviation from the mean
+
+**Min-max scaling**: aka. Normalization - Values are shifted and rescaled so that they end up ranging from 0 to 1.
+
+**Standarization**: Substract the mean value, and then divide it by the standard deviation so that the resulting distribution has unit variance.
