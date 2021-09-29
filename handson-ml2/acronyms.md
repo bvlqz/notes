@@ -14,3 +14,4 @@
 * RBM - Restricted Boltzmann Machines
 * RMQE - Root Mean Square Error
 * MAE - Mean Absolute Error (aka average absulte deviation)
+* SGD - Stochastic Gradient Descent
