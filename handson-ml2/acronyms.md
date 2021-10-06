@@ -15,3 +15,7 @@
 * RMQE - Root Mean Square Error
 * MAE - Mean Absolute Error (aka average absulte deviation)
 * SGD - Stochastic Gradient Descent
+* GD -  Gradient Descent
+* SVD - Singular Value Decomposition
+* IID - Independent and Identically Distributed
+* LASSO Regression - Least Absolute Shrinkage and Selection Operator Regression
